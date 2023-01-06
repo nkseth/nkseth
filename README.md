@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nanak Seth</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="center" alt="coding" width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on [Resef](https://www.reserf.in/)
 
